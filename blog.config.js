@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: '0neSe7en',
+  author: '0neSe7en',
+  email: 'siyuan.se7en@gmail.com',
+  link: 'https://se7en.vercel.app',
   description: 'This gonna be an awesome website.',
-  lang: 'en-US',
+  lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
